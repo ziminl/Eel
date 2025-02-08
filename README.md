@@ -1,3 +1,5 @@
+https://stackoverflow.com/questions/68740121/how-to-start-python-eel-in-any-available-browser-of-user-system
+
 # Eel
 
 [![PyPI version](https://img.shields.io/pypi/v/Eel?style=for-the-badge)](https://pypi.org/project/Eel/)
